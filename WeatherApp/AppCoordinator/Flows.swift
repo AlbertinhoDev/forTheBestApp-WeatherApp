@@ -1,0 +1,3 @@
+enum Flows {
+    case home
+}
